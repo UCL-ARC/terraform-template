@@ -1,7 +1,7 @@
 all
 
 # Don't enforce line length in code blocks
-rule 'MD013', :ignore_code_blocks => true, :ignore_tables => true
+rule 'MD013', :ignore_code_blocks => true, :tables => true
 
 # Don't force ordered lists with 1. 1. 1.
 rule 'MD029', :style => :ordered
