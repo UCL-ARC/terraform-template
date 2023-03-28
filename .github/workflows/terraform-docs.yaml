@@ -16,4 +16,9 @@ jobs:
         working-dir: .
         output-file: README.md
         output-method: inject
+        template: |-
+          <!-- BEGIN_TF_DOCS -->
+          {{ .Content }}
+          
+          <!-- END_TF_DOCS -->
         git-push: "true"
