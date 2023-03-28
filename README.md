@@ -2,7 +2,9 @@
 
 ## ARC Terraform template
 
-This is a Terraform template for new ARC Terraform projects or modules. It has a
+⚠️ This repository is still under construction! ⚠️
+
+A Terraform template for new ARC Terraform projects or modules. It has a
 suggested skeleton structure and GitHub Actions workflows.
 
 ## Usage
