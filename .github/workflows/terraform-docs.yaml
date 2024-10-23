@@ -14,8 +14,8 @@ jobs:
       uses: terraform-docs/gh-actions@v1.3.0
       with:
         working-dir: .
-        recursive: true
-        recursive-path: modules
+        # recursive: true
+        # recursive-path: modules
         output-file: README.md
         output-method: inject
         template: |-
