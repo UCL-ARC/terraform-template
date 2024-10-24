@@ -2,7 +2,8 @@
 
 ## ARC Terraform template
 
-⚠️ This repository is still under construction! ⚠️
+> [!WARNING]
+> This repository is still under construction!
 
 A Terraform template for new ARC Terraform projects or modules. It has a
 suggested skeleton structure and GitHub Actions workflows.
@@ -19,7 +20,7 @@ suggested skeleton structure and GitHub Actions workflows.
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.1.4 |
+| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.8.5 |
 | <a name="requirement_random"></a> [random](#requirement\_random) | ~> 3.4.3 |
 
 ## Providers
