@@ -52,3 +52,4 @@ jobs:
           validateSingleCommit: false
           ignoreLabels: |
             bot
+            renovate
