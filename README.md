@@ -11,7 +11,8 @@ suggested skeleton structure and GitHub Actions workflows.
 ## Usage
 
 1. Fork this repo. If creating a self-contained module, name your repo
-   according to the [module naming convention](https://developer.hashicorp.com/terraform/registry/modules/publish)
+   according to the [module naming
+   convention](https://developer.hashicorp.com/terraform/registry/modules/publish)
    of `terraform-<PROVIDER>-<NAME>`.
 2. Change [CODEOWNERS](.github/CODEOWNERS) to you / your Team.
 
